@@ -57,7 +57,7 @@ def main():
 try:
     main()
 except KeyboardInterrupt:
-    print('Good bye!')
+    print('\nGood bye!')
     exit()
 
 
